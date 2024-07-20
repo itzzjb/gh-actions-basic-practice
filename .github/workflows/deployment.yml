@@ -1,4 +1,5 @@
 name: Deploying the Application
+run-name: Deploying the Application
 on: push
 jobs:
   lint:
